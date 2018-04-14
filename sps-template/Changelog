@@ -1,0 +1,48 @@
+# Changelog
+This changelog is only kept for historical reasons to remind me when I did it :)
+
+## [3.0.0] - 2018-04-15
+### Changed
+- internal app vars
+- system env var name changed
+- Release on MIT license
+
+## [2.0.1] - 2007-03-19
+### Changed
+- template file format looks better now
+
+## [2.0.0] - 2007-03-16
+### Changed
+- template vars changed GE -> X, GN -> Y, SE -> Z
+
+## [1.5.1] - 2007-03-13
+### Added
+- saving time in the template file header
+
+## [1.5.0] - 2007-03-13
+### Added
+- :)
+
+## [1.4.0] - XXXX-XX-XX
+### Lost in space - never existed or no notes left
+
+## [1.3.0] - 200X-XX-XX
+### Added
+- no info
+
+## [1.2.0] - 2000-11-23
+### Added
+- template validation, version frozen, next changes in the future 1.3.0 (I have no idea what that means after all these years)
+
+## [1.1.1] - 2000-11-18
+### Added
+- name template addedd to window title
+
+## [1.1.0] - 2000-11-18
+### Added
+- column counting in UI from 1 instead 0
+
+## [1.0.0] - 2000-11-14
+### Initial version
+- New visual identity by @tylerfortune8.
+- Version navigation.
