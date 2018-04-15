@@ -638,7 +638,7 @@ sub TemplateCalc2
 sub RPSOpen                   
 {                             
 	my @types =           
-	([XSPST_LC::LC('sps receiver files'), '*.rps *.rp *.r *.RPS'],
+	([XSPST_LC::LC('sps receiver files'), '*.rps *.rp *.r *.RPS *.R'],
 	 [XSPST_LC::LC('all files'), '*.*']);
 	my $old_file_rps =''; 
                               
@@ -705,7 +705,7 @@ sub RPSRefresh
 sub SPSOpen                   
 {                             
 	my @types =           
-	([XSPST_LC::LC('sps source files'), '*.sps *.sp *.s *.SPS'],
+	([XSPST_LC::LC('sps source files'), '*.sps *.sp *.s *.SPS *.S'],
 	 [XSPST_LC::LC('all files'), '*.*']);
 	my $old_file_sps =''; 
                               
@@ -773,7 +773,7 @@ sub SPSRefresh
 sub XPSOpen                   
 {                             
 	my @types =           
-	([XSPST_LC::LC('xps relational files'), '*.xps *.x* *.XPS'],
+	([XSPST_LC::LC('xps relational files'), '*.xps *.x* *.XPS *.X'],
 	 [XSPST_LC::LC('all files'), '*.*']);
 	my $old_file_xps =''; 
                               

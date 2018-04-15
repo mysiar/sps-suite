@@ -1,6 +1,10 @@
 # Changelog
 This changelog is only kept for historical reasons to remind me when I did it :)
 
+## [3.0.1] - 2018-04-15
+### Added
+- extension filter for SPS files (*.R, *.S, *.X)
+
 ## [3.0.0] - 2018-04-15
 ### Changed
 - internal app vars

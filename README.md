@@ -10,4 +10,4 @@ SPS Suite is a set of tools I developed over the years working in Oil & Gas Indu
 * system env variable SPS_SUITE_DIR that points to the suite tools folder that holds configuration files. Depend of the operating system set it up yourself.
 
 ### Disclaimer
-The code style and format is as I wrote it starting in 2000 🙈 🙉 🙊
+The code style and format is as I wrote it starting in 2000 (no code reformating). 🙈 🙉 🙊
